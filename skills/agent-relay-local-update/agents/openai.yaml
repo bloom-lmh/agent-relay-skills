@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Relay Local Update"
+  short_description: "Force-refresh local relay documents."
+  default_prompt: "Use $agent-relay-local-update to refresh STATUS, CHECKPOINT, HANDOFF, and LEADERBOARD for this repository."

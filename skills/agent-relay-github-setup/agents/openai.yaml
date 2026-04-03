@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Relay GitHub Setup"
+  short_description: "Set up a GitHub-native relay workflow."
+  default_prompt: "Use $agent-relay-github-setup to set up a GitHub-native code relay workflow for this repository and its issues/projects."

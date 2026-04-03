@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Relay GitHub Handoff"
+  short_description: "Resume or hand off GitHub relay state."
+  default_prompt: "Use $agent-relay-github-handoff to resume or leave a clean handoff using GitHub issues, project state, and relay comments."

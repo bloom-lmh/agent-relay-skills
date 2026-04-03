@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Relay Local Setup"
+  short_description: "Set up a local code relay workflow."
+  default_prompt: "Use $agent-relay-local-setup to set up or refresh a local code relay workflow in this repository."

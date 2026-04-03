@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Relay Local Handoff"
+  short_description: "Resume or hand off local relay docs."
+  default_prompt: "Use $agent-relay-local-handoff to resume this repository from local relay docs or leave a clean handoff."

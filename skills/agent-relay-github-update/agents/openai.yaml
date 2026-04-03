@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Relay GitHub Update"
+  short_description: "Force-refresh GitHub relay state."
+  default_prompt: "Use $agent-relay-github-update to refresh GitHub relay issue status, handoff comments, and trusted best notes."
