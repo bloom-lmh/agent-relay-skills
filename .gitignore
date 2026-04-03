@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# Validation / temp
+.tmp/
+tmp/
