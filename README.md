@@ -1,6 +1,8 @@
 # Agent Relay Skills
 
-Agent Relay Skills is a small, reusable skill collection for turning the ideas in [yan5xu/code-relay](https://github.com/yan5xu/code-relay) into a practical, shareable workflow for Codex-style agents.
+Reusable local-mode and GitHub-mode relay skills for Codex-style agents.
+
+Agent Relay Skills turns the ideas in [yan5xu/code-relay](https://github.com/yan5xu/code-relay) into a practical, shareable skill collection for resumable agent work.
 
 This repository packages and generalizes that article's core ideas:
 
@@ -10,6 +12,13 @@ This repository packages and generalizes that article's core ideas:
 - support both local-file mode and GitHub-native mode
 
 The goal is not to replace the original project. The goal is to provide a clean implementation and wrapper that other repositories and teams can reuse quickly.
+
+## Quick Pitch
+
+- Build relay workflows once
+- Resume work from docs instead of chat history
+- Separate setup, resume, and manual update
+- Support both local file workflows and GitHub-native workflows
 
 ## Included Skills
 
